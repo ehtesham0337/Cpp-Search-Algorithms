@@ -15,7 +15,7 @@ int BinSearch(int arr[], int x, int upper_bound){
     if(arr[mid] == x){
         return mid;
     }   
-    return 0;
+    return -1;
 }
 int main(){
     int arr[] = {1,3,4,5,7,8,9,10}; 
