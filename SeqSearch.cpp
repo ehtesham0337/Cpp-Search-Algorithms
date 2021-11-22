@@ -16,5 +16,5 @@ int main(){
     int array[] = {3,1,9,6,4,0,2};
     cout << search(array, 0);
     return 0;
-}
+} 
  
